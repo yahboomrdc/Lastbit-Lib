@@ -1,0 +1,21 @@
+{
+    "name": "LASTBIT",
+    "version": "1.0.0",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "Yahboom_IR_V2": "github:YahboomTechnology/Yahboom_IR_V2#main"
+    },
+    "files": [
+        "README.md",
+        "LASTBIT.ts",
+        "_locales/en/LASTBIT-strings.json",
+        "_locales/zh-cn/LASTBIT-strings.json"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocks"
+}
